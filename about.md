@@ -6,11 +6,13 @@ permalink: /about/
 
 ### What is this?
 
-This is the personal Jekyl page of Blake Kilraine.  I am a young technical professional interested in all things operations - with a focus on virtualization, *nix administration, and infrastructure.
+This is the personal Jekyl page of Blake Kilraine.  I am a technical professional interested in all things operations - with a focus on virtualization, *nix administration, and infrastructure.  
 
 ### What will be posted here
 
-I will post things here that relate to professional development.  These posts will be shorter and less in-depth than posts on my [wiki](https://wiki.kilraine.com) page.  The purpose of this page is two-fold:  A) To further develop my professional portfolio and B) to gain more use with Git as well as expose myself to the basic fundamentals of web development and hosting.
+I will post things here that relate to professional development.  Think of it as the soft-sides compliment to my [wiki](https://wiki.kilraine.com). 
+
+The purpose of this page is two-fold:  A) To further develop my professional portfolio and B) to gain more use with Git as well as expose myself further to the basic fundamentals of web development and hosting.
 
 ### Contact me
 

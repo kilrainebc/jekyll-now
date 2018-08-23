@@ -12,4 +12,7 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+  * [kilrainebc@gmail.com](mailto:kilrainebc@gmail.com)
+  * [LinkedIn](https://www.linkedin.com/in/blake-kilraine/)
+  * [Wiki](wiki.kilraine.com)
+  * [StackExchange](https://www.linkedin.com/in/blake-kilraine/)

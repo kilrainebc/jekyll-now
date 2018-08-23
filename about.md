@@ -10,7 +10,7 @@ This is the personal Jekyl page of Blake Kilraine.  I am a young technical profe
 
 ### What will be posted here
 
-I will post things here that relate to professional development.  These posts will be shorter and less in-depth than posts on my [wiki](wiki.kilraine.com) page.  The purpose of this page is two-fold:  A) To further develop my professional portfolio and B) to gain more use with Git as well as expose myself to the basic fundamentals of web development and hosting.
+I will post things here that relate to professional development.  These posts will be shorter and less in-depth than posts on my [wiki](https://wiki.kilraine.com) page.  The purpose of this page is two-fold:  A) To further develop my professional portfolio and B) to gain more use with Git as well as expose myself to the basic fundamentals of web development and hosting.
 
 ### Contact me
 

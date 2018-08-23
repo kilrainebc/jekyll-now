@@ -16,5 +16,5 @@ I will post things here that relate to professional development.  These posts wi
 
   * [kilrainebc@gmail.com](mailto:kilrainebc@gmail.com)
   * [LinkedIn](https://www.linkedin.com/in/blake-kilraine/)
-  * [Wiki](wiki.kilraine.com)
+  * [Wiki](https://wiki.kilraine.com)
   * [StackExchange](https://stackexchange.com/users/11917337/kilrainebc?tab=accounts)
